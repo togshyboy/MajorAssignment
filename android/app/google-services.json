@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023043094066",
+    "project_id": "chatappclone-37ad6",
+    "storage_bucket": "chatappclone-37ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023043094066:android:c8c22eb04edbb44f24de2b",
+        "android_client_info": {
+          "package_name": "com.duyanh.flutter_whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023043094066-ofpo8u7nbkb7eqe7f709op7n3fiimo34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FJaPAeIT_6TxOKzM8KiYAghXHMq0tBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023043094066-ofpo8u7nbkb7eqe7f709op7n3fiimo34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
